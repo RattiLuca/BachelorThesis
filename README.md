@@ -1,4 +1,4 @@
-# BachelorThesis
+# Bachelor's thesis in "Economics and Management"
 
 The purpose of the case study sets objective the forecasting analysis of the price of the unit area of some houses in Taipei City (Xindian District) given their characteristics, as well as the study of their relative outliers, outliers.
 The analysis is done through the regression model, first simple and then robust of the explanatory variables considered in the dataset using the least squares method (OLS). The main idea of multiple linear regression is to fill the lack of information that results in a bias in the correct identification of the y variable. In other words, regression with multiple regressors (independent variables) makes it possible, of course if data are available, to measure the effect of a specific variable Xi on the variable y while holding the other independent variables constant.
