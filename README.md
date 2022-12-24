@@ -1,2 +1,5 @@
 # BachelorThesis
-Bachelor's thesis project in "Economics and Management" based on multivariate robust statistical analysis of the residuals of a regression model.
+
+The purpose of the case study sets objective the forecasting analysis of the price of the unit area of some houses in Taipei City (Xindian District) given their characteristics, as well as the study of their relative outliers, outliers.
+The analysis is done through the regression model, first simple and then robust of the explanatory variables considered in the dataset using the least squares method (OLS). The main idea of multiple linear regression is to fill the lack of information that results in a bias in the correct identification of the y variable. In other words, regression with multiple regressors (independent variables) makes it possible, of course if data are available, to measure the effect of a specific variable xi on the variable y while holding the other independent variables constant.
+The analysis of outliers is based on the study of the residuals, i.e., the differences between the values observed in the dataset and the estimated values calculated with the regression equation, in order to check whether they have the possibility of influencing the regression model and, consequently in this specific case, the variable y, i.e., the price of housing per unit.
